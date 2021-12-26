@@ -1,7 +1,6 @@
 import streamlit as st
 from PIL import Image
 import cv2 
-import pytesseract
 import numpy as np #numpy
 import tensorflow.keras  # Loading the keras models
 from PIL import Image, ImageOps # pre-processing
